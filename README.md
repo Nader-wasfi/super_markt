@@ -1,7 +1,4 @@
 
-
-
-
 # super_markt
 
 A new Flutter project.
